@@ -11,7 +11,8 @@
 *.userprefs
 
 # Build results
-*/[Dd]ebug/
+**/bin
+**/[Dd]ebug/
 */[Dd]ebugPublic/
 */[Rr]elease/
 */[Rr]eleases/
@@ -178,6 +179,7 @@
 */*.pfx
 */*.publishsettings
 */orleans.codegen.cs
+
 
 */node_modules
 
