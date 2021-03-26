@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programming Projects\\Work\\5eCharacterBuilder\\5eCharacterBuilder\\5eCharacterBuilder\\Shared\\5eCharacterBuilder.Shared.csproj": {}
+  },
+  "projects": {
+    "E:\\Programming Projects\\Work\\5eCharacterBuilder\\5eCharacterBuilder\\5eCharacterBuilder\\Shared\\5eCharacterBuilder.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming Projects\\Work\\5eCharacterBuilder\\5eCharacterBuilder\\5eCharacterBuilder\\Shared\\5eCharacterBuilder.Shared.csproj",
+        "projectName": "5eCharacterBuilder.Shared",
+        "projectPath": "E:\\Programming Projects\\Work\\5eCharacterBuilder\\5eCharacterBuilder\\5eCharacterBuilder\\Shared\\5eCharacterBuilder.Shared.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming Projects\\Work\\5eCharacterBuilder\\5eCharacterBuilder\\5eCharacterBuilder\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.sitefinity.com/nuget/": {},
+          "http://uc-nuget.azurewebsites.net/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
