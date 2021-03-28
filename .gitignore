@@ -236,3 +236,6 @@ _Pvt_Extensions
 .vs
 *.map
 *.cache
+5eCharacterBuilder/5eCharacterBuilder/Client/obj/Debug/netstandard2.1/5eCharacterBuilder.Client.csprojAssemblyReference.cache
+5eCharacterBuilder/5eCharacterBuilder/Server/obj/Debug/netcoreapp3.1/5eCharacterBuilder.Server.csprojAssemblyReference.cache
+5eCharacterBuilder/5eCharacterBuilder/Shared/obj/Debug/netstandard2.1/5eCharacterBuilder.Shared.csprojAssemblyReference.cache
