@@ -11,6 +11,7 @@
 *.userprefs
 
 # Build results
+**/*.cache
 **/bin/
 **/[Dd]ebug/
 */[Dd]ebugPublic/
@@ -234,3 +235,4 @@ _Pvt_Extensions
 /node_modules
 .vs
 *.map
+*.cache
